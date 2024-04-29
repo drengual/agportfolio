@@ -1,0 +1,21 @@
+    .custom-card {
+        margin-bottom: 20px;
+        padding: 20px;
+        background-color: #f8f9fa; /* Light gray background color */
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease-in-out;
+    }
+
+    .custom-card:hover {
+        transform: scale(1.05); /* Add a slight scale effect on hover for interactivity */
+    }
+
+    .custom-card img {
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    .custom-card a {
+        color: #343a40; /* Text color */
+    }

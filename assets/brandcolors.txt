@@ -1,0 +1,7 @@
+palletes
+
+cardinal - c81f45
+
+black - 000000
+
+Rose Red - c23857
